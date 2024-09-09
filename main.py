@@ -21,6 +21,7 @@ def bubble_sort(arr):
 
 # testfinish
 # 2release
+# 完成relase
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
